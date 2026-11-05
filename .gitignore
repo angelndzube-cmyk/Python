@@ -1,1 +1,9 @@
-/.DS_Store
+__pycache__/
+*.pyc
+*.bmp
+db.sqlite3
+LL_env/
+.venv/
+venv/
+.DS_Store
+you
